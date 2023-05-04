@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Pad Kra Prao",
+        "foodImg": "https://i.ibb.co/qC3gMrD/food2.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "4.5"
+      },
+      {
+        "id": 2,
+        "recipeName": "Kao Ka Moo",
+        "foodImg": "https://i.ibb.co/CbLD03L/food5.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "4"
+      },
+      {
+        "id": 3,
+        "recipeName": "Kway Teow",
+        "foodImg": "https://i.ibb.co/7jt6Pmw/food4.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "5"
+      },
+      {
+        "id": 4,
+        "recipeName": "Pla Kapung Neung Manao",
+        "foodImg": "https://i.ibb.co/SBCFdf1/food1.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": ""
+      },
+      {
+        "id": 5,
+        "recipeName": "Mango Sticky Rice",
+        "foodImg": "https://i.ibb.co/hyKVJ29/food3.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "4"
+      },
+      {
+        "id": 6,
+        "recipeName": "Massaman Curry",
+        "foodImg": "https://i.ibb.co/qC3gMrD/food2.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "5"
+      },
+      {
+        "id": 1,
+        "recipeName": "Massaman Curry",
+        "foodImg": "https://i.ibb.co/qC3gMrD/food2.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "4"
+      },
+      {
+        "id": 2,
+        "recipeName": "Hor Mok Ma Prow Awn",
+        "foodImg": "https://i.ibb.co/hyKVJ29/food3.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "5"
+      },
+      {
+        "id": 1,
+        "recipeName": "Pla Kapung Neung Manao",
+        "foodImg": "https://i.ibb.co/7jt6Pmw/food4.jpg",
+        "ingredients": ["Rice", "Thai Fish Sauce", "Curry Paste", "Vinegar", "Coconut Milk", "Chiles", "Limes", "Fresh Herbs"],
+        "method": "Position rack in upper third of oven; preheat broiler to high. Line a baking sheet or broiler pan with foil and coat with cooking spray. Mash garlic and 1/2 teaspoon salt on a cutting board with a fork to make a thick paste. Combine with 1 tablespoon oil, thyme and 1/4 teaspoon pepper. Place the fish on the prepared pan and spread the paste on top of it.",
+        "ratings": "3"
+      }
+]
